@@ -1,0 +1,1148 @@
+fileFormatVersion: 2
+guid: 98976ca43f4505b42aa6198e53056b92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3600296957691561488
+    second: Chap34 1_0
+  - first:
+      213: 5055660579005903524
+    second: Chap34 1_1
+  - first:
+      213: 7181064027787946444
+    second: Chap34 1_2
+  - first:
+      213: -1419445721764140642
+    second: Chap34 1_3
+  - first:
+      213: -5051496581311832763
+    second: Chap34 1_4
+  - first:
+      213: -2218958232994554183
+    second: Chap34 1_5
+  - first:
+      213: -7905751518132746572
+    second: Chap34 1_6
+  - first:
+      213: -2547467937815013768
+    second: Chap34 1_7
+  - first:
+      213: -6675133378205415101
+    second: Chap34 1_8
+  - first:
+      213: 845326888760599360
+    second: Chap34 1_9
+  - first:
+      213: 6735927674777769005
+    second: Chap34 1_10
+  - first:
+      213: 4258468895297543498
+    second: Chap34 1_11
+  - first:
+      213: 4551733888458819111
+    second: Chap34 1_12
+  - first:
+      213: 7589843094576803173
+    second: Chap34 1_13
+  - first:
+      213: -2024176661143499699
+    second: Chap34 1_14
+  - first:
+      213: -4808322272431998687
+    second: Chap34 1_15
+  - first:
+      213: -7811692033113825820
+    second: Chap34 1_16
+  - first:
+      213: 6692394456892744891
+    second: Chap34 1_17
+  - first:
+      213: 6838798922922398888
+    second: Chap34 1_18
+  - first:
+      213: -2661492476186274161
+    second: Chap34 1_19
+  - first:
+      213: -4430982119683409256
+    second: Chap34 1_20
+  - first:
+      213: -7570350694227711893
+    second: Chap34 1_21
+  - first:
+      213: -2824377406291107304
+    second: Chap34 1_22
+  - first:
+      213: 4597503196621782535
+    second: Chap34 1_23
+  - first:
+      213: -9102126685588676120
+    second: Chap34 1_24
+  - first:
+      213: -423053614283641515
+    second: Chap34 1_25
+  - first:
+      213: -4998949268853190106
+    second: Chap34 1_26
+  - first:
+      213: -8817551194013438352
+    second: Chap34 1_27
+  - first:
+      213: -3185003560865187825
+    second: Chap34 1_28
+  - first:
+      213: -2559675628232961945
+    second: Chap34 1_29
+  - first:
+      213: -7280514780628529304
+    second: Chap34 1_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chap34 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34986b31f892d53a0800000000000000
+      internalID: -6675133378205415101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ab92e0d3df182c0800000000000000
+      internalID: -4430982119683409256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68ec6d2726b0f690800000000000000
+      internalID: -7570350694227711893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fc7ae716a66fa90800000000000000
+      internalID: -7280514780628529304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4117c437864d3bc4baf5f1ff55714a01
+      internalID: 1740884542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024d58dcef28c2049b9051d560991e36
+      internalID: 1023790325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cbbc2aa35e72343959f853b8708900
+      internalID: -2145632043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6236707579bfbf4787746d56e33951d
+      internalID: -44000550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77789ea073bf6a84b85389d26258f3ec
+      internalID: 786355709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee49a1482167b47409065479bbbc7217
+      internalID: -82531089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce24146c5eced40a32707a7b9196ae
+      internalID: 249884770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a38679169a684fbb05d6d0bc87423
+      internalID: 88344670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dd9c259c2dbdb41ae05e714a7338a5
+      internalID: -1049419884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2768fb42a8be394586ee24305cb1d9a
+      internalID: -1978899779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59150f4b47c9a05469d79010ad884619
+      internalID: 2110972561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf91841b6f25334285d8296d4deeb78
+      internalID: -1944652792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ae985106af0a341a231c90142e7724
+      internalID: 1813294577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616c6b3db1374274da94f5fb353bb92e
+      internalID: -1608183505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8385492b0f6ee42bfc8dc3bab7ca58
+      internalID: -1348702248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bbd368c7ceb5d41bc4675cfbdbc219
+      internalID: -313263328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_128
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4145761aafec7d54bb2fb5dda89c4df8
+      internalID: 1115879859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1250d45e7ceab647ab07c982b5532a2
+      internalID: -1760655123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_139
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7115bfef6d503544b8e6305cb47b6814
+      internalID: 44305505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c29130b981303c4b9a4c761e11a3428
+      internalID: 590044104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0fad0f484c1924985d7082e0e7a250
+      internalID: -1897318885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_150
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469365415d331b640a46538542de29cb
+      internalID: -235294547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_152
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1ef54a67abc104fb7261ef7bb09f5b
+      internalID: 1563826735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_153
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548a3a229556f1d4bb5bf3ee62f58389
+      internalID: -327714239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62db5847ddae6147aaabdc222c2b7fc
+      internalID: 978708938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e77640cf204c6439c0f846d484b8d2
+      internalID: -884266550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e946f6c7820cb314090097979a078751
+      internalID: -1484157017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chap34 1_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f25f5e0ccc078468360a6c4fe27a4b
+      internalID: 368161294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 861c56e19ac70a54bafd20e2a13344e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chap34 1_0: 3600296957691561488
+      Chap34 1_1: 5055660579005903524
+      Chap34 1_10: 6735927674777769005
+      Chap34 1_100: -105002125
+      Chap34 1_101: -1821862959
+      Chap34 1_102: -479599206
+      Chap34 1_103: 1813294577
+      Chap34 1_104: -1401143088
+      Chap34 1_105: -483257352
+      Chap34 1_106: 1096658731
+      Chap34 1_107: 1079062748
+      Chap34 1_108: -1608183505
+      Chap34 1_109: -1345227910
+      Chap34 1_11: 4258468895297543498
+      Chap34 1_110: -1850171596
+      Chap34 1_111: -259909459
+      Chap34 1_112: 1525201919
+      Chap34 1_113: 42777656
+      Chap34 1_114: -577496350
+      Chap34 1_115: -987489707
+      Chap34 1_116: 505951238
+      Chap34 1_117: 1099842494
+      Chap34 1_118: -964311368
+      Chap34 1_119: 857569971
+      Chap34 1_12: 4551733888458819111
+      Chap34 1_120: -269728482
+      Chap34 1_121: 151481308
+      Chap34 1_122: -1348702248
+      Chap34 1_123: -864226802
+      Chap34 1_124: -313263328
+      Chap34 1_125: -1594468941
+      Chap34 1_126: 1114351619
+      Chap34 1_127: 305844034
+      Chap34 1_128: 1115879859
+      Chap34 1_129: -890199364
+      Chap34 1_13: 7589843094576803173
+      Chap34 1_130: 228295740
+      Chap34 1_131: 1187764199
+      Chap34 1_132: 1332966015
+      Chap34 1_133: -103777163
+      Chap34 1_134: -644981185
+      Chap34 1_135: 1255820050
+      Chap34 1_136: 1104166032
+      Chap34 1_137: 1784648950
+      Chap34 1_138: -1760655123
+      Chap34 1_139: 44305505
+      Chap34 1_14: -2024176661143499699
+      Chap34 1_140: 57027109
+      Chap34 1_141: -536482922
+      Chap34 1_142: 590044104
+      Chap34 1_143: -29746804
+      Chap34 1_144: 463935888
+      Chap34 1_145: 729019889
+      Chap34 1_146: -290737441
+      Chap34 1_147: 109481398
+      Chap34 1_148: -1897318885
+      Chap34 1_149: 1759232491
+      Chap34 1_15: -4808322272431998687
+      Chap34 1_150: -235294547
+      Chap34 1_151: -1443866951
+      Chap34 1_152: 1563826735
+      Chap34 1_153: -327714239
+      Chap34 1_154: 978708938
+      Chap34 1_155: -189531694
+      Chap34 1_156: 2014781277
+      Chap34 1_157: 534323141
+      Chap34 1_158: -517692883
+      Chap34 1_159: 1093556539
+      Chap34 1_16: -7811692033113825820
+      Chap34 1_160: -214789396
+      Chap34 1_161: -1743151954
+      Chap34 1_162: -112156252
+      Chap34 1_163: -1276241896
+      Chap34 1_164: 449029924
+      Chap34 1_165: 1108115293
+      Chap34 1_166: 1874349431
+      Chap34 1_167: -636894751
+      Chap34 1_168: 1755919122
+      Chap34 1_169: -494005273
+      Chap34 1_17: 6692394456892744891
+      Chap34 1_170: 1397884532
+      Chap34 1_171: -825036557
+      Chap34 1_172: -1629501396
+      Chap34 1_173: -1550730134
+      Chap34 1_174: -117711121
+      Chap34 1_175: 1477225792
+      Chap34 1_176: 137859375
+      Chap34 1_177: 227855491
+      Chap34 1_178: -1144447616
+      Chap34 1_179: 1074321444
+      Chap34 1_18: 6838798922922398888
+      Chap34 1_180: 1082572785
+      Chap34 1_181: 1219472282
+      Chap34 1_182: -1887679703
+      Chap34 1_183: -1195339378
+      Chap34 1_184: -884266550
+      Chap34 1_185: -1902806376
+      Chap34 1_186: -1484157017
+      Chap34 1_187: -1930916646
+      Chap34 1_188: -303270555
+      Chap34 1_189: -1628303036
+      Chap34 1_19: -2661492476186274161
+      Chap34 1_190: -38006387
+      Chap34 1_191: 290802102
+      Chap34 1_192: -271607072
+      Chap34 1_193: 1394389207
+      Chap34 1_194: 394815593
+      Chap34 1_195: -1808171087
+      Chap34 1_196: 885475035
+      Chap34 1_197: 1107772422
+      Chap34 1_198: 368161294
+      Chap34 1_199: 1525242760
+      Chap34 1_2: 7181064027787946444
+      Chap34 1_20: -4430982119683409256
+      Chap34 1_200: 1262802813
+      Chap34 1_201: -669362158
+      Chap34 1_202: -1127165137
+      Chap34 1_203: -1990359716
+      Chap34 1_204: -890179949
+      Chap34 1_205: -1503753235
+      Chap34 1_206: -1536796800
+      Chap34 1_207: -2130381162
+      Chap34 1_21: -7570350694227711893
+      Chap34 1_22: -2824377406291107304
+      Chap34 1_23: 4597503196621782535
+      Chap34 1_24: -9102126685588676120
+      Chap34 1_25: -423053614283641515
+      Chap34 1_26: -4998949268853190106
+      Chap34 1_27: -8817551194013438352
+      Chap34 1_28: -3185003560865187825
+      Chap34 1_29: -2559675628232961945
+      Chap34 1_3: -1419445721764140642
+      Chap34 1_30: -7280514780628529304
+      Chap34 1_31: 117129412
+      Chap34 1_32: 1740884542
+      Chap34 1_33: 1023790325
+      Chap34 1_34: -1113862228
+      Chap34 1_35: 1835382825
+      Chap34 1_36: 1699877187
+      Chap34 1_37: -879187425
+      Chap34 1_38: 1177324640
+      Chap34 1_39: 56539630
+      Chap34 1_4: -5051496581311832763
+      Chap34 1_40: -2050664258
+      Chap34 1_41: 1228750307
+      Chap34 1_42: -380103358
+      Chap34 1_43: 603616239
+      Chap34 1_44: -367605959
+      Chap34 1_45: -1830181768
+      Chap34 1_46: -2145632043
+      Chap34 1_47: -44000550
+      Chap34 1_48: 712624945
+      Chap34 1_49: 832684003
+      Chap34 1_5: -2218958232994554183
+      Chap34 1_50: -1327578091
+      Chap34 1_51: -401949611
+      Chap34 1_52: -514280231
+      Chap34 1_53: -1851406082
+      Chap34 1_54: -765305152
+      Chap34 1_55: 609549205
+      Chap34 1_56: -584940131
+      Chap34 1_57: 693829772
+      Chap34 1_58: 1781977837
+      Chap34 1_59: -1234565503
+      Chap34 1_6: -7905751518132746572
+      Chap34 1_60: 786355709
+      Chap34 1_61: -1649616021
+      Chap34 1_62: -82531089
+      Chap34 1_63: 249884770
+      Chap34 1_64: 88344670
+      Chap34 1_65: -1143054101
+      Chap34 1_66: 2094373371
+      Chap34 1_67: 725061252
+      Chap34 1_68: 1235439302
+      Chap34 1_69: 2058200434
+      Chap34 1_7: -2547467937815013768
+      Chap34 1_70: -1049419884
+      Chap34 1_71: -977344859
+      Chap34 1_72: 2088790315
+      Chap34 1_73: 395619741
+      Chap34 1_74: -1132977093
+      Chap34 1_75: -2124238759
+      Chap34 1_76: -638132549
+      Chap34 1_77: 1123791518
+      Chap34 1_78: -1433144244
+      Chap34 1_79: -707664094
+      Chap34 1_8: -6675133378205415101
+      Chap34 1_80: 1788357192
+      Chap34 1_81: 2137341050
+      Chap34 1_82: -787491658
+      Chap34 1_83: -1160618044
+      Chap34 1_84: -1565007582
+      Chap34 1_85: 1102394444
+      Chap34 1_86: 1278764231
+      Chap34 1_87: 1001345977
+      Chap34 1_88: -556575163
+      Chap34 1_89: 688251339
+      Chap34 1_9: 845326888760599360
+      Chap34 1_90: 107066304
+      Chap34 1_91: -1978899779
+      Chap34 1_92: 567480492
+      Chap34 1_93: 2110972561
+      Chap34 1_94: 759056160
+      Chap34 1_95: -1944652792
+      Chap34 1_96: -470655373
+      Chap34 1_97: -596442597
+      Chap34 1_98: -1405230986
+      Chap34 1_99: -109953842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
